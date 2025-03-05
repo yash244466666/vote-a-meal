@@ -1,4 +1,4 @@
-# Vote-A-Meal
+# Vote-A-Meal 
 To check Swagger api documentation please goto 
 http://127.0.0.1:3000/api
 or
@@ -7,7 +7,7 @@ or
 http://your-domain:your-port/api
 AFTER STARTING the backend
 
-## Quick Video Guide of the project
+## Quick Video Guide of the project:
 
 
 [<img src="https://github.com/yashSikdar/vote-a-meal/blob/master/project_home_page.png" width="50%">](https://drive.google.com/file/d/1KkOr8J6GkHNaKh7uaf_R3SUSr5wG_RkR/view?usp=sharing "Now in Android: 55")
