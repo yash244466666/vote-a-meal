@@ -131,7 +131,6 @@ npm run dev
 - LinkedIn: [Yash](https://www.linkedin.com/in/yash-solo) 
 - Twitter: [Yash](https://twitter.com/yash_solo000)
 - Email: info@yashcodes.com 
-- Email: yashsikdar81@gmail.com
 - Website: https://www.yashcodes.com 
 - feel free to reach me for any clarification or about any future projects.
 
